@@ -5,3 +5,11 @@ Pros: Flexibility of the development.
 Cons: Hard to predict the result.
       Requires more times to communicate and decisions.
 
+Question2: Explain the role and responsibilites of the Scrum Master vs the Product Owner
+
+Scrum Master is a facilitator and coach of the development team. Responsible for team to work together and
+making an enviornment for team to collaborate.
+
+Product Owner is a visionary of customers. Responsible for defining product features and ensuring products meets
+customer's requirments.
+
