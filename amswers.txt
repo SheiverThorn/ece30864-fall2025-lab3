@@ -13,3 +13,13 @@ making an enviornment for team to collaborate.
 Product Owner is a visionary of customers. Responsible for defining product features and ensuring products meets
 customer's requirments.
 
+Question3: What are the 3 types of meetings that happens during sprint cycle?
+1. Daily-standup meetings.
+    a. What teammember did previous day.
+    b. What teammember will try to achieve today.
+2. Sprint review meetings
+    a. Presentation for the product.
+    b. Review previous sprint and planning for next sprint.
+3. Sptrint retrospective meetings
+    a. Analyzing previous sprint cylce.
+    b. Discussing which tasks they will stop, and start doing for work efficiency.
